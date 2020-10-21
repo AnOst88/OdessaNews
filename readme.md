@@ -5,7 +5,7 @@
 5. Open home url
 6. Fetch news with console command - php artisan parse:news
 
-Realized
+Implemented the following: 
 1.Rendering on page the parsed Odessa news no older than 5 days
 2.Publication date
 3.Title of the article with a link to its page
